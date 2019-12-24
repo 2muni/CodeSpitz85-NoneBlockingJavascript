@@ -14,7 +14,7 @@
 
 ## TL;DR
 
-- 현대 자바스크립트를 대하는 방법과 ECMAScript 에 대해여 알아봅시다.
+- 현대 자바스크립트를 대하는 방법과 ECMAScript 에 대해여 알아봅니다.
 - ECMAScript 가 버전업이 되는 과정과 ES6 이후(~ES10) 표준이 된 스펙들 중 일부를 확인합니다.
 
 # JavaScript Pipeline
